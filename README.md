@@ -8,7 +8,7 @@
     <i>"Bridging complex Kotlin logic with beautiful UI/UX design."</i>
   </p>
 
-  <a href="https://linkedin.com/in/USERNAME-LINKEDIN-ANDA">
+  <a href="https://linkedin.com/in/USERNAME-LINKEDIN-ANDA](https://www.linkedin.com/in/ramdani-rahmat-saputra-514b47188/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ramdanidoni244@gmail.com">
